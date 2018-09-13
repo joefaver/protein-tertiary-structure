@@ -25,7 +25,7 @@ $ pip3 install -r requirements.txt
 
 * **Joseph Vergel-Becerra** - *Initial work* - [joefavergel](https://github.com/joefavergel)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/joefavergel/Physicochemical_Properties_of_Protein_Tertiary_Structures/graphs/contributors) who participated in this project.
 
 ### License
 
