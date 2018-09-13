@@ -4,11 +4,13 @@ The prediction of protein structure is one of the most important challenges in b
 
 ## Getting Started
 
-You can acsees to [Physicochemical Properties of Protein Tertiary Structures Data Set](https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure) at [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
+For a correct visualization of HTML code, you can view online at [Jupyter nbviewer: Physicochemical Properties of Protein Tertiary Structures](http://nbviewer.jupyter.org/github/joefavergel/Physicochemical_Properties_of_Protein_Tertiary_Structures/blob/master/RMSD-ProteinTertiaryStructures.ipynb)
+
+You can acsees to [Physicochemical Properties of Protein Tertiary Structure Data Set](https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of+Protein+Tertiary+Structure) at [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).
 
 ### Prerequisites
 
-You can install all dependency packages for this Jupyter notebook with:
+You can install all dependency packages for this Jupyter notebook executing in your bash:
 
 ```
 $ pip3 install -r requirements.txt
